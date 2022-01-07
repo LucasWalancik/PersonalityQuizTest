@@ -1,0 +1,20 @@
+2022-01-07 19:05:38.054 [main] WARN  com.revature.Menu - User entered something that's not an int
+2022-01-07 19:05:38.070 [main] WARN  com.revature.Menu - null
+2022-01-07 19:05:39.240 [main] WARN  com.revature.Menu - User entered something that's not an int
+2022-01-07 19:05:39.241 [main] WARN  com.revature.Menu - null
+2022-01-07 19:05:42.293 [main] WARN  com.revature.Menu - User entered something that's not an int
+2022-01-07 19:05:42.295 [main] WARN  com.revature.Menu - null
+2022-01-07 19:11:09.619 [main] WARN  com.revature.Menu - Something terrible happened!
+2022-01-07 19:11:09.623 [main] WARN  com.revature.Menu - User entered number too large or too small
+2022-01-07 19:11:17.025 [main] WARN  com.revature.Menu - User entered something that's not an int
+2022-01-07 19:11:17.026 [main] WARN  com.revature.Menu - null
+2022-01-07 19:21:23.553 [main] ERROR com.revature.Menu - User entered something that's not an int
+2022-01-07 19:21:23.559 [main] ERROR com.revature.Menu - null
+2022-01-07 19:21:28.334 [main] ERROR com.revature.Menu - User entered something that's not an int
+2022-01-07 19:21:28.335 [main] ERROR com.revature.Menu - null
+2022-01-07 19:21:29.178 [main] ERROR com.revature.Menu - User entered something that's not an int
+2022-01-07 19:21:29.179 [main] ERROR com.revature.Menu - null
+2022-01-07 19:21:30.303 [main] ERROR com.revature.Menu - User entered a number greater than 4 or smaller than 1
+2022-01-07 19:38:06.996 [main] ERROR com.revature.Menu - Something terrible happened!
+2022-01-07 19:42:12.584 [main] ERROR com.revature.Menu - User entered a number greater than 4 or smaller than 1
+2022-01-07 19:42:13.313 [main] ERROR com.revature.Menu - User entered a number greater than 4 or smaller than 1
